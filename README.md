@@ -1,1 +1,1 @@
-# Computer-Vision-using-OpenCV-Python
+# OpenCV tutorials in jupyter notebooks
